@@ -1,3 +1,3 @@
 $("#clickHere").click(function(){
-	$("#output").html("The button works.")
-})
+	$("#output").html("The button works.");
+});
